@@ -1,0 +1,5 @@
+[workspace]
+members = ["utils", "day01", "day02"]
+resolver = "2"
+[workspace.package]
+authors = ["Khai Nguyen"]
